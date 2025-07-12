@@ -1,0 +1,12 @@
+====== H (3000) into Invar+Pb-4Bi               =======
+        SRIM-2008.04
+=========================================
+        Replacement Collisions       
+ See SRIM Outputs\TDATA.txt for calc. details   
+=========================================
+--------------------------------------------------------------------
+    Recoil/Damage Calculations made with Kinchin-Pease Estimates    
+--------------------------------------------------------------------
+
+ There are NO Replacement Collisions calculated.
+ You must execute a full TRIM cascade calculation for these.
